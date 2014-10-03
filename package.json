@@ -1,0 +1,14 @@
+{
+  "name": "directiv-core-parser",
+  "version": "0.1.0",
+  "description": "core html parser for directiv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Bytheway <bytheway.cameron@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "htmlparser": "^1.7.7"
+  }
+}
