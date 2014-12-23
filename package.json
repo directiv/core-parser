@@ -1,6 +1,6 @@
 {
   "name": "directiv-core-parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "core html parser for directiv",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "Cameron Bytheway <bytheway.cameron@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "htmlparser": "^1.7.7"
+    "htmlparser2": "^3.8.2"
   }
 }
